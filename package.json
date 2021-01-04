@@ -10,7 +10,7 @@
   "author": "Ya Zhuang <zhuangya@gmail.com> (https://zhuangya.me/)",
   "license": "MIT",
   "devDependencies": {
-    "axios": "^0.16.2"
+    "axios": "^0.21.1"
   },
   "peerDependencies": {
     "superagent": "^3.5.2"
